@@ -35,7 +35,7 @@
 
   <div class="entry">
     <h2>initial introduction</h2>
-    <div class="date"></div>
+    <div class="date">11:38am; April 28th, 2023</div>
     <p>
       The girl had the type of week that all teenage girls dread. She looked at herself in the mirror and felt her eyes sinking in, her body feeling puffy, and her clothes seeming ill fitting. 
 Maybe these physical issues were just distractions from everything else.
