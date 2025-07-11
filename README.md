@@ -33,6 +33,138 @@
 <body>
   <h1>some writings</h1>
 
+  <div class="entry">
+    <h2>initial introduction</h2>
+    <div class="date"></div>
+    <p>
+      The girl had the type of week that all teenage girls dread. She looked at herself in the mirror and felt her eyes sinking in, her body feeling puffy, and her clothes seeming ill fitting. 
+Maybe these physical issues were just distractions from everything else.
+She felt lonely, but she didn’t know why.
+Maybe that’s why she grew up with her biggest fear of being lonely. 
+It was because she’d be left alone in her own thoughts.
+She felt that one day it might be too late to go back.
+That one day she’ll wake up and sit on her bed,
+With her book on the nightstand with her glasses on top.
+With a cold tea cup still three quarters full.
+And she’ll go to open her blinds and watch as the light seeps into her room,
+Covering every inch with sun.
+But as she goes back to open her novel, she’ll realize all that’s ever been in her head.
+
+Realizing that maybe the friends she had at school were part of her imagination.
+Realizing that maybe she only read books to feel smart like her peers.
+Realizing that maybe she only drinks tea to try and act the age of everyone else on campus.
+Realizing that maybe she didn’t fear being lonely, but the fear of others knowing that she was lonely. 
+
+Maybe that was why the boy in math class caught her eye. The one who tries to hold in his laugh.
+Everyday she would wake up and envision her day being confident and effortlessly bright.
+But no matter how much she replayed these scenarios in her mind, it rarely ever went that way.
+He was different though.
+He seemed okay with being alone.. Sometimes it seemed like he liked it.
+Just to be him in the corners of the room.
+He could be dancing in a daydream,
+Or carrying the weight of the world. 
+That’s how she thought his mind was working. 
+And then one day, she walked past him sitting at the grand old brown tree table.
+She walked past so quickly. It was like the wind was carrying her.
+She stood behind the bathroom door, preparing herself for what was on the other side.
+Reading that, one may think that she’s talking about ogres or big bears.
+But instead it was people. 
+Just people.
+She took a deep breath and walked back out. She sat down and she knew that he saw her.
+Her mind was buzzing until she opened her mouth and started speaking. She didn’t look at him however.
+The boy put down his work and began to speak. It was so easy.
+They discussed their Easter festivities and their mathematics examination.
+She had talked to him twice prior, but this time it was different.
+She felt deep down that they should be friends. 
+So friends is what they became. 
+
+There were less than 48 hours left in her first year at university.
+Now how was she going to spend her final hours there?
+One option was to stay inside her dormitory, close the curtains and have the only light be from her lamp to only write.
+Write about how her year had gone, how life was going to go in the way it was.
+Read her journal from her first year. The most emotional journal of all. 
+She planned to reflect in silence and solitude. 
+But then sitting in the library made her realize something. 
+Her first year wasn’t over just yet. 
+She had one last task she wanted to complete.
+After all her to-do lists she completed, and all her to-do lists that she didn’t complete,
+The one final task was: to deliver a book.
+Not just any book, her book.
+Her own copy of a Hemmingway novel.
+It was more than 200 pages bound together by a paper cover,
+But her way of saying goodbye and how although they were acquaintances at most, 
+He meant something to her. 
+And she could only hope that she meant something to him too. 
+She hoped that she meant enough for him not to forget her that summer.
+  </p>
+</div>
+
+<div class="entry">
+  <h2>initial introduction</h2>
+  <div class="date"></div>
+  <p>
+    The girl had the type of week that all teenage girls dread. She looked at herself in the mirror and felt her eyes sinking in, her body feeling puffy, and her clothes seeming ill fitting.<br>
+    Maybe these physical issues were just distractions from everything else.<br>
+    She felt lonely, but she didn’t know why.<br>
+    Maybe that’s why she grew up with her biggest fear of being lonely.<br>
+    It was because she’d be left alone in her own thoughts.<br>
+    She felt that one day it might be too late to go back.<br>
+    That one day she’ll wake up and sit on her bed,<br>
+    With her book on the nightstand with her glasses on top.<br>
+    With a cold tea cup still three quarters full.<br>
+    And she’ll go to open her blinds and watch as the light seeps into her room,<br>
+    Covering every inch with sun.<br>
+    But as she goes back to open her novel, she’ll realize all that’s ever been in her head.<br><br>
+
+  Realizing that maybe the friends she had at school were part of her imagination.<br>
+    Realizing that maybe she only read books to feel smart like her peers.<br>
+    Realizing that maybe she only drinks tea to try and act the age of everyone else on campus.<br>
+    Realizing that maybe she didn’t fear being lonely, but the fear of others knowing that she was lonely.<br><br>
+    Maybe that was why the boy in math class caught her eye. The one who tries to hold in his laugh.<br>
+    Everyday she would wake up and envision her day being confident and effortlessly bright.<br>
+    But no matter how much she replayed these scenarios in her mind, it rarely ever went that way.<br>
+    He was different though.<br>
+    He seemed okay with being alone.. Sometimes it seemed like he liked it.<br>
+    Just to be him in the corners of the room.<br>
+    He could be dancing in a daydream,<br>
+    Or carrying the weight of the world.<br>
+    That’s how she thought his mind was working.<br>
+    And then one day, she walked past him sitting at the grand old brown tree table.<br>
+    She walked past so quickly. It was like the wind was carrying her.<br>
+    She stood behind the bathroom door, preparing herself for what was on the other side.<br>
+    Reading that, one may think that she’s talking about ogres or big bears.<br>
+    But instead it was people.<br>
+    Just people.<br>
+    She took a deep breath and walked back out. She sat down and she knew that he saw her.<br>
+    Her mind was buzzing until she opened her mouth and started speaking. She didn’t look at him however.<br>
+    The boy put down his work and began to speak. It was so easy.<br>
+    They discussed their Easter festivities and their mathematics examination.<br>
+    She had talked to him twice prior, but this time it was different.<br>
+    She felt deep down that they should be friends.<br>
+    So friends is what they became.<br><br>
+
+  There were less than 48 hours left in her first year at university.<br>
+    Now how was she going to spend her final hours there?<br>
+    One option was to stay inside her dormitory, close the curtains and have the only light be from her lamp to only write.<br>
+    Write about how her year had gone, how life was going to go in the way it was.<br>
+    Read her journal from her first year. The most emotional journal of all.<br>
+    She planned to reflect in silence and solitude.<br>
+    But then sitting in the library made her realize something.<br>
+    Her first year wasn’t over just yet.<br>
+    She had one last task she wanted to complete.<br>
+    After all her to-do lists she completed, and all her to-do lists that she didn’t complete,<br>
+    The one final task was: to deliver a book.<br>
+    Not just any book, her book.<br>
+    Her own copy of a Hemmingway novel.<br>
+    It was more than 200 pages bound together by a paper cover,<br>
+    But her way of saying goodbye and how although they were acquaintances at most,<br>
+    He meant something to her.<br>
+    And she could only hope that she meant something to him too.<br>
+    She hoped that she meant enough for him not to forget her that summer.<br>
+  </p>
+</div>
+
+
 <div class="entry">
   <h2>his home</h2>
   <div class="date">9:54am; November 5th, 2022</div>
@@ -119,7 +251,7 @@
 
   
   <div class="entry">
-    <h2>Initial Introduction</h2>
+    <h2>initial introduction</h2>
     <div class="date"></div>
     <p>I've been writing since as long as I can remember. In journals, in margins of books, school notes, on desks, on walls, etc. This is a place where I can store all of them because the digital footprints never go away. All my writings are crammed in places I can sometimes not remember so here they are now... Hopefully forever.</p>
   </div>
