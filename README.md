@@ -34,7 +34,7 @@
   <h1>some writings</h1>
 
 <div class="entry">
-  <h2>initial introduction</h2>
+  <h2>final first week</h2>
   <div class="date"></div>
   <p>
   The girl had the type of week that all teenage girls dread. She looked at herself in the mirror and felt her eyes sinking in, her body feeling puffy, and her clothes seeming ill fitting.<br>
