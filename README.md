@@ -34,7 +34,7 @@
   <h1>some writings</h1>
 
   <div class="entry">
-    <h2>initial introduction</h2>
+    <h2>my first dorm</h2>
     <div class="date">10:42am; July 16th, 2025</div>
     <p>I close my eyes and think of my first dorm room.<br>
 Falling asleep every night staring at my 8x11 cutout rectangle from a roll of scratch paper.<br>
