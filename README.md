@@ -43,7 +43,7 @@
     <h2>the cape</h2>
     <div class="date">3:43pm; July 6th, 2025 (Written on sand of Bank Street Beach, Massachusetts)
 </div>
-    <p>And as I sat on the ocean of Cape Cod with the wind blowing strongly in my ears , I looked at the Atlantic and knew that this would probably be the last time for a while that I feel it's kisses as the waves brush ashore, and the whispers of the breeze blowing gently across my skin.<br>
+    <p>And as I sat on the ocean of Cape Cod with the wind blowing strongly in my ears , I looked at the Atlantic and knew that this would probably be the last time for a while that I feel its kisses as the waves brush ashore, and the whispers of the breeze blowing gently across my skin.<br>
 and as my hair dries in the sun,<br>
 my time here keeps slipping.<br>
 And as I see the seagulls leaving, flying across the blue sky,<br>
