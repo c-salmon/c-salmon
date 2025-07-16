@@ -34,6 +34,38 @@
   <h1>some writings</h1>
 
   <div class="entry">
+    <h2>initial introduction</h2>
+    <div class="date"></div>
+    <p>I've been writing since as long as I can remember. In journals, in margins of books, school notes, on desks, on walls, etc. This is a place where I can store all of them because the digital footprints never go away. All my writings are crammed in places I can sometimes not remember so here they are now... Hopefully forever.</p>
+  </div>
+
+  <div class="entry">
+    <h2>initial the cape</h2>
+    <div class="date">3:43pm; July 6th, 2025 (Written on sand of Bank Street Beach, Massachusetts)
+</div>
+    <p>And as I sat on the ocean of Cape Cod with the wind blowing strongly in my ears , I looked at the Atlantic and knew that this would probably be the last time for a while that I feel it's kisses as the waves brush ashore, and the whispers of the breeze blowing gently across my skin.<br>
+and as my hair dries in the sun,<br>
+my time here keeps slipping.<br>
+And as I see the seagulls leaving, flying across the blue sky,<br>
+I know that this is it.<br>
+This whole thing feels like one great goodbye,<br>
+because I don't know when I will be here next.<br>
+I don't know when I'll see his family next<br>
+and this might just be one of the last times.<br> <br>
+And now Massachusetts is all you.<br>
+Though my father and my family's blood was raised here,<br>
+though my eyes first opened here,<br>
+Everytime I open my eyes here now, twenty one years later,<br>
+All I see is you around me.<br> <br>
+And I know that both of us, even together, are not stronger than distance and time.<br>
+Everything that I ever possibly thought that I could love is here,<br>
+and I'll miss it so.<br>
+But every time I hear this breeze, I'll always think of the cottage on the sea.<br>
+It all just feels like one big goodbye.<br>
+</p>
+  </div>
+
+  <div class="entry">
     <h2>my first dorm</h2>
     <div class="date">10:42am; July 16th, 2025</div>
     <p>I close my eyes and think of my first dorm room.<br>
@@ -209,13 +241,6 @@ All that I can think of and all that I am is all that I have ever loved.<br>
     And only time, will tell the truth.
   </p>
 </div>
-
-  
-  <div class="entry">
-    <h2>initial introduction</h2>
-    <div class="date"></div>
-    <p>I've been writing since as long as I can remember. In journals, in margins of books, school notes, on desks, on walls, etc. This is a place where I can store all of them because the digital footprints never go away. All my writings are crammed in places I can sometimes not remember so here they are now... Hopefully forever.</p>
-  </div>
 
 
 
