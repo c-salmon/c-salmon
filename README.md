@@ -33,6 +33,33 @@
 <body>
   <h1>some writings</h1>
 
+  <div class="entry">
+    <h2>initial introduction</h2>
+    <div class="date">10:42am; July 16th, 2025</div>
+    <p>I close my eyes and think of my first dorm room.<br>
+Falling asleep every night staring at my 8x11 cutout rectangle from a roll of scratch paper.<br>
+I'd use that scratch paper to do homework over and over again because it was the only thing that I had thought mattered.<br>
+It's blurry in my dream but in my mind I can still see it so clearly.<br>
+My Life Plan, it says at the top of the paper, with five bulletpoints below it.<br>
+Get my doctorate, move somewhere in Europe, work for a big company.<br>
+Maybe even build my own company.<br>
+I open my eyes and look around my room now, three years later.<br>
+It's cluttered with postcards from places I've been.<br>
+With photos of friends who I never could have dreamed of having.<br>
+Little writings torn out from class notebooks.<br>
+Parking stamps and trinkets to remember days I spent laughing with loved ones.<br>
+Everybody always says that good things take time, and I now believe it.<br>
+It's taken twenty-one years for me to understand that there's more to life than awards and accolades.<br>
+There's love and stories and big and small moments in between.<br>
+I hope that one day int he future when I open my eyes again,<br>
+I will see a dog running around in my big backyard during sunset,<br>
+with someone I love, and a reflection of me at five years old chasing the birds.<br>
+That is all I could want.<br>
+All that I could ever need.<br>
+All that I can think of and all that I am is all that I have ever loved.<br>
+</p>
+  </div>
+
 <div class="entry">
   <h2>first final week</h2>
   <div class="date">11:38am; April 28th, 2023</div>
