@@ -40,6 +40,44 @@
   </div>
 
   <div class="entry">
+    <h2>black pants</h2>
+    <div class="date">Sometime in the evening; March 31, 2025</div>
+    <p>
+Today I was looking around the room and had no where to put my hands<br>
+I looked at the people near me and across from me working on math problems.<br>
+My hands wandered to the fabric of my black pants while I stared at my shoes.<br>
+I felt a part of the fabric scratched with a slight pilling.<br>
+I thought about for a moment where it had come from.<br>
+I stared at my shoes some more.<br>
+It then occurred to me the day that my pants got ripped in shrubs.<br>
+It was the same day that the mud stained my shoes.<br>
+The same day my blue jacket couldn’t keep me warm enough.<br>
+The day that your cheeks turned a bright shade of red and mine a lighter shade of pink from the New England winds.<br>
+The day I watched as you chased your dog around grass with a smile of a child.<br>
+The day I stepped into your childhood bedroom and saw your life culminated into one space.<br>
+Clusters of stick on stars on the ceiling that you once stared at while drifting into a dream of being grown.<br>
+A mirror you watched yourself comb your brown hair in before your middle school dance.<br>
+The one window you’ve looked out of countless times to see if it was snowing.<br>
+And the door that you shut one last time before leaving for college.<br>
+This was all seen the day I met your mother, in the living room where you’ve opened Christmas gifts for 22 years.<br>
+Next to the kitchen where you would watch her make your favorite chicken and rice.<br>
+In the house big enough for your family of four to grow up in.<br>
+As I said goodbye to the place which once held you in your youth, I looked at the front door.<br>
+The front door where you sat while your dad tied your shoes for soccer practice.<br>
+Where you would put your muddy shoes in front of to not dirty the house.<br>
+And now, it was me putting on my muddy shoes to leave.<br>
+As we drove away, the sun was setting and so was the time we would spend together in your hometown.<br>
+We made the three turns.<br>
+Left, right, left.<br>
+It was all on the same day that I realized how lucky I was that we both met, somehow, someday, on a warm February night, all those months ago.<br>
+And how every moment since I had my first memory of Boston and you, had led me to where I am with you now.<br>
+My eyes focused back on my shoes.<br>
+I looked up and realized everyone was still working on their math problem,<br>
+All while I was still thinking of you.<br>
+</p>
+  </div>
+
+  <div class="entry">
     <h2>an unknown red string</h2>
     <div class="date">1:29pm; October 30th, 2024</div>
     <p>There was a girl who wore glasses and was seemingly studious in class.<br>
