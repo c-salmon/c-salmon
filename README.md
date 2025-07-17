@@ -50,11 +50,11 @@ Watching ball games with her father or getting groceries with her mom.<br>
 She knew another world of university was out there but didn’t feel as if she’d ever choose it.<br>
 She then realized however that maybe it was that world not choosing her.<br>
 Days passed and she got enveloped and wrapped around something else, someone else.<br>
-It felt like she was suffocating but at the same time with something so warm and cozy where she never wanted to leave.<br>
-The red yarn started unraveling and soon she was left with just herself again..<br>
+It felt like she was suffocating but at the same time with something so warm and tender to where she never wanted to leave.<br>
+However, the red yarn started unraveling and soon she was left with just herself again..<br>
 Navigating how to be alone with herself, once again.<br>
 She went to Spain and tried to only think of herself for once on the flight.<br> <br>
-3400 miles away, there was a boy packing a duffel bag getting ready to go back to university.<br>
+3400 miles away, there was a boy packing a duffel bag getting ready to go back to school out west.<br>
 He went into his car and waited for the car to warm up.<br>
 </p>
   </div>
@@ -70,13 +70,13 @@ And as I see the seagulls leaving, flying across the blue sky,<br>
 I know that this is it.<br>
 This whole thing feels like one great goodbye,<br>
 because I don't know when I will be here next.<br>
-I don't know when I'll see his family next<br>
+I don't know when I'll see his family next,<br>
 and this might just be one of the last times.<br> <br>
-And now Massachusetts is all you.<br>
-Though my father and my family's blood was raised here,<br>
-though my eyes first opened here,<br>
+And now Massachusetts is all you-<br>
+though my father and my family's blood was raised here,<br>
+though my eyes first opened here.<br>
 Everytime I open my eyes here now, twenty one years later,<br>
-All I see is you around me.<br> <br>
+all I see is you around me.<br> <br>
 And I know that both of us, even together, are not stronger than distance and time.<br>
 Everything that I ever possibly thought that I could love is here,<br>
 and I'll miss it so.<br>
