@@ -40,6 +40,26 @@
   </div>
 
   <div class="entry">
+    <h2>an unknown red string</h2>
+    <div class="date">1:29pm; October 30th, 2024</div>
+    <p>There was a girl who wore glasses and was seemingly studious in class.<br>
+Her jam jar glasses fogged up when she would rush to class.<br>
+She felt that she had some people then nobody in spans of hours.<br>
+She spent her weekends alone or at home with her parents.<br>
+Watching ball games with her father or getting groceries with her mom.<br>
+She knew another world of university was out there but didn’t feel as if she’d ever choose it.<br>
+She then realized however that maybe it was that world not choosing her.<br>
+Days passed and she got enveloped and wrapped around something else, someone else.<br>
+It felt like she was suffocating but at the same time with something so warm and cozy where she never wanted to leave.<br>
+The red yarn started unraveling and soon she was left with just herself again..<br>
+Navigating how to be alone with herself, once again.<br>
+She went to Spain and tried to only think of herself for once on the flight.<br> <br>
+3400 miles away, there was a boy packing a duffel bag getting ready to go back to university.<br>
+He went into his car and waited for the car to warm up.<br>
+</p>
+  </div>
+
+  <div class="entry">
     <h2>the cape</h2>
     <div class="date">3:43pm; July 6th, 2025 (Written on sand of Bank Street Beach, Massachusetts)
 </div>
