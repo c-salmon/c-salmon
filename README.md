@@ -43,7 +43,7 @@
     <h2>black pants</h2>
     <div class="date">Sometime in the evening; March 31, 2025</div>
     <p>
-Today I was looking around the room and had no where to put my hands<br>
+Today I was looking around the room and had nowhere to put my hands<br>
 I looked at the people near me and across from me working on math problems.<br>
 My hands wandered to the fabric of my black pants while I stared at my shoes.<br>
 I felt a part of the fabric scratched with a slight pilling.<br>
