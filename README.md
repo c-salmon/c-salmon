@@ -170,8 +170,8 @@ All that I can think of and all that I am is all that I have ever loved.<br>
     The one final task was: to deliver a book.<br>
     Not just any book, her book.<br>
     Her own copy of a Hemmingway novel.<br>
-    It was more than 200 pages bound together by a paper cover,<br>
-    But her way of saying goodbye and how although they were acquaintances at most,<br>
+    It was less than 200 pages bound together by a paper cover,<br>
+    But it was her way of saying goodbye and how although they were acquaintances at most,<br>
     He meant something to her.<br>
     And she could only hope that she meant something to him too.<br>
     She hoped that she meant enough for him not to forget her that summer.<br>
