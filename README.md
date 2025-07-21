@@ -40,6 +40,44 @@
   </div>
 
   <div class="entry">
+    <h2>ebb</h2>
+    <div class="date"></div>
+    <p>Here is your text with `<br>` added after each line break:
+
+It was my last day staring at the Atlantic.<br>
+The ebb and flow of the water inched towards my feet;<br>
+It was a mix of blues and greens.<br>
+The colors made an emerald hue reminiscent of the inner specks of your eyes.<br>
+I kissed goodbye to the waters that had held me for two short days.<br>
+The same waters that coddled you for two long decades.<br>
+We drove back to your house.<br>
+The floorboards beneath my feet squeaked as I lugged my suitcase up the stairs.<br>
+I tried to listen to them.<br>
+Each creak as if they were whispers.<br>
+I thought to myself how these planks of wood would always know more of your secrets than I ever will..<br>
+As I sat on the footstool waiting for you to finish showering,<br>
+the humid summer air seeped through the window.<br>
+The whirring of the breeze harmonized with the air conditioner.<br>
+I tried to listen to it.<br>
+Every note sounding part of a goodbye hymn as I knew I would soon leave Massachusetts,<br>
+And leave the thought of you behind with it.<br>
+The bathroom door opened and I was greeted with a cloud of steam.<br>
+Now all I could hear was the water dripping on the tiles.<br>
+You're whistling a song I will never be able to name.<br>
+I’m falling asleep as the clock strikes three in the morning.<br>
+I don’t know what exactly I was trying to listen for that night.<br>
+Maybe a reason to stay, or a reason to go.<br>
+The last sounds I heard as I dozed off to bed was you saying goodnight,<br>
+as the sound of the Cape Cod waves drifted back to me.<br>
+It ebbed towards the both of us, then took you back out to sea with it.<br>
+Leaving me here,<br>
+As I try to keep listening for something,<br>
+anything,<br>
+every night since then.<br>
+</p>
+  </div>
+
+  <div class="entry">
     <h2>etched in wood</h2>
     <div class="date">10:03pm; March 7th, 2025 (Written on the plane ride heading home from Scotland)</div>
     <p>Jacob and the Stone just started playing. When it does, I think about a future which will not happen- but is nice to think about. Suddenly as I close my eyes, I go to “another life”, although I secretly hope it’s this one. 
