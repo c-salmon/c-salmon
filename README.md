@@ -42,8 +42,7 @@
   <div class="entry">
     <h2>ebb</h2>
     <div class="date"></div>
-    <p>Here is your text with `<br>` added after each line break:
-
+    <p>
 It was my last day staring at the Atlantic.<br>
 The ebb and flow of the water inched towards my feet;<br>
 It was a mix of blues and greens.<br>
