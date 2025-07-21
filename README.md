@@ -61,7 +61,8 @@ The one window you’ve looked out of countless times to see if it was snowing.<
 And the door that you shut one last time before leaving for college.<br>
 This was all seen the day I met your mother, in the living room where you’ve opened Christmas gifts for 22 years.<br>
 Next to the kitchen where you would watch her make your favorite chicken and rice.<br>
-In the house big enough for your family of four to grow up in.<br>
+In the house big enough for you and your sister to grow up in,<br>
+and for your two parents to grow old in. <br>
 As I said goodbye to the place which once held you in your youth, I looked at the front door.<br>
 The front door where you sat while your dad tied your shoes for soccer practice.<br>
 Where you would put your muddy shoes in front of to not dirty the house.<br>
