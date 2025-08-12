@@ -40,6 +40,30 @@
   </div>
 
   <div class="entry">
+    <h2>what I want to remember</h2>
+    <div class="4:27pm; August 12th, 2025"></div>
+    <p>This isn’t a creative writing, just an observation.<br>
+<br>
+There are a few things that I have wanted in life for as long as I could remember that have not changed.<br>
+A small cottage next to a lighthouse on the East Coast,<br>
+a cat named Fish,<br>
+and my mom and dad to be with me forever.<br>
+<br>
+There are also some things that have changed, but not the main idea.<br>
+A black lab now, but a golden retriever then.<br>
+A taco stand now, but a bookstore then.<br>
+A red front door now, but a blue one then.<br>
+<br>
+Finally, there are some ideas that have completely become astray.<br>
+A big modern mansion then, a wooden house with a big backyard now.<br>
+Degrees framed on the wall then, pictures of friends and family now.<br>
+<br>
+Sometimes I feel scared that with my life getting busier every few months, I’ll start losing sight of what I value in life. That’s why I like to reread my journals. I find the things that have changed and things that haven’t.<br>
+<br>
+I hope to never forget happiness, love, and forgiveness.<br></p>
+  </div>
+
+  <div class="entry">
     <h2>ebb</h2>
     <div class="date"></div>
     <p>
