@@ -59,7 +59,7 @@ It was seven in the morning and quite foggy outside.<br>
 My shutters were half closed and only my yellow lamp in the back corner of the room was on.<br>
 I was putting blush on my cheeks when I remembered my dream.<br>
 As I got my soft brush and put the sparkly pink powder on my face,<br>
-I remembered how the cool wind on Cape Cape felt on my face.<br>
+I remembered how the cool wind on the Cape felt on my face.<br>
 I saw the pink shimmer appear on my cheeks that reminded me of the pink on the final night, staring at the sunset at Chatham lighthouse.<br>
 It was so light that it felt more like a sunrise than sunset that evening.<br>
 I look at my painting of that day taped onto my mirror.<br>
@@ -70,7 +70,7 @@ All I remembered was passing by different restaurants with the same architecture
 Sea breeze stained wood and white borders that looked like icing on gingerbread houses.<br>
 I said to whoever was driving, “yes, this is the Cape”.<br>
 I sat on my bed and thought to myself why I had told my mother that morning that I had a nightmare.<br>
-Maybe it was because I knew that I’d either never be back there, or that I will and everything will be completely different.<br>
+Maybe it was because I knew that I’d either never be back there, or that I would and everything would be completely different than that perfect weekend.<br>
 Both scenes that I wish to never experience.<br></p>
   </div>
 
