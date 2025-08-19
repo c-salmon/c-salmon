@@ -40,9 +40,33 @@
   </div>
 
   <div class="entry">
+    <h2>a product of short days and cold winters</h2>
+    <div class="date"></div>
+    <p>I've been writing since as long as I can remember. In journals, in margins of books, school notes, on desks, on walls, etc. This is a place where I can store all of them because the digital footprints never go away. All my writings are crammed in places I can sometimes not remember so here they are now... Hopefully forever.</p>
+  </div>
+
+  <div class="entry">
     <h2>what I want to remember</h2>
-    <div class="4:27pm; August 12th, 2025"></div>
-    <p>This isn’t a creative writing, just an observation.<br>
+    <div class="10:17am; 8/19/2025"></div>
+    <p>Surely though, it can’t come off as a surprise if I were to say that I’m interested in moving to the East Coast.<br>
+I grew up with the feeling of it all around me.<br>
+My drivers license says California but my birth certificate says Massachusetts.<br>
+I grew up watching football every Sunday morning with my dad but it was always the Patriots.<br>
+I’d come home in the evening in high school telling my parents how much I loved going to the beach with my friends after classes, but my dad would always tell me how his experience was better because he and his friends would take the train all around the city.<br>
+I’d tell my parents how my friend and I took the scenic way past the beach that day, and my dad would tell me how he and his friends would drive around Commonwealth Ave. and look at the trees.<br>
+I grew up spending my summer breaks and winter holidays going to Boston instead of other cities and countries.<br>
+On jersey day at school, I’d alternate each year between the Patriots, Celtics, Red Sox, and Bruins.<br>
+At home my pajamas always consisted of P.E shorts and a torn up hand me down of random Boston restaurants.<br>
+On college days at school I’d always wear my dad’s BC windbreaker.<br>
+I grew up with a poster of the 2004 Red Sox team photo on my bookshelf.<br>
+Every photo I’ve seen of my dad before me was in Boston, and my mom in New York.<br>
+I’ve been told countless times by my mom how much she loved New York, and how much ym dad still loves Boston.<br>
+I’ve always been around it and have never thought twice about it.<br>
+As if that part of me is merely an extension of my whole being.<br>
+<br>
+That’s why when people are surprised when I tell them I may try and move there after college,<br>
+I just know that they don’t really know me.<br>
+The East is an extension of me and I am a product of it.<br><br>
 <br>
 There are a few things that I have wanted in life for as long as I could remember that have not changed.<br>
 A small cottage next to a lighthouse on the East Coast,<br>
