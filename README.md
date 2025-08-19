@@ -40,14 +40,43 @@
   </div>
 
   <div class="entry">
-    <h2>a product of short days and cold winters</h2>
-    <div class="date"></div>
-    <p>I've been writing since as long as I can remember. In journals, in margins of books, school notes, on desks, on walls, etc. This is a place where I can store all of them because the digital footprints never go away. All my writings are crammed in places I can sometimes not remember so here they are now... Hopefully forever.</p>
+    <h2>my summer nightmare</h2>
+    <div class="date">11:57am; 8/19/2025</div>
+    <p>Last night I got ready in my usual manner.<br>
+I put my hair up, washed my face, brushed my teeth.<br>
+I stole my dog from my parents room and set him down on my bed.<br>
+I originally had a movie playing on my laptop propped up on my desk chair next to the bed,<br>
+but I was so tired that I closed the screen.<br>
+There was a slight breeze that was peeking through the window screen.<br>
+It was a warm summer evening.<br>
+I went to bed that night and dreamt some dreams that I would soon forget, as I usually do.<br>
+The following morning I got up and went to the other bathroom to steal toothpaste from my mom.<br>
+I told her I had a nightmare.<br>
+Half awake, she asked what it was about and I said that I forgot,<br>
+and I did.<br>
+I did until I was staring at my gold framed mirror in my room.<br>
+It was seven in the morning and quite foggy outside.<br>
+My shutters were half closed and only my yellow lamp in the back corner of the room was on.<br>
+I was putting blush on my cheeks when I remembered my dream.<br>
+As I got my soft brush and put the sparkly pink powder on my face,<br>
+I remembered how the cool wind on Cape Cape felt on my face.<br>
+I saw the pink shimmer appear on my cheeks that reminded me of the pink on the final night, staring at the sunset at Chatham lighthouse.<br>
+It was so light that it felt more like a sunrise than sunset that evening.<br>
+I look at my painting of that day taped onto my mirror.<br>
+The dream was that I was in the back of a car.<br>
+I wasn’t sure who was driving or whose car it was, but I had my head slightly out the window leaning on the car’s open window.<br>
+It was as if the dream lasted for five minutes.<br>
+All I remembered was passing by different restaurants with the same architecture of classic New England.<br>
+Sea breeze stained wood and white borders that looked like icing on gingerbread houses.<br>
+I said to whoever was driving, “yes, this is the Cape”.<br>
+I sat on my bed and thought to myself why I had told my mother that morning that I had a nightmare.<br>
+Maybe it was because I knew that I’d either never be back there, or that I will and everything will be completely different.<br>
+Both scenes that I wish to never experience.<br></p>
   </div>
 
   <div class="entry">
-    <h2>what I want to remember</h2>
-    <div class="10:17am; 8/19/2025"></div>
+    <h2>a product of short days and cold winters</h2>
+    <div class="date">10:17am; 8/19/2025</div>
     <p>Surely though, it can’t come off as a surprise if I were to say that I’m interested in moving to the East Coast.<br>
 I grew up with the feeling of it all around me.<br>
 My drivers license says California but my birth certificate says Massachusetts.<br>
